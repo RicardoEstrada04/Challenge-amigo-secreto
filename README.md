@@ -8,13 +8,13 @@ Este es un proyecto básico del curso de Logica de Programación de Alura LATAM,
 - CSS
 - JavaScript
 
-## ⚙️ **Cómo usarlo**
+## **Cómo usarlo**
 
 1. Abre el archivo `index.html` en tu navegador.
 2. Escribe nombres en el campo de texto y haz clic en **"Añadir"**.
 3. Verás la lista de nombres agregados.
 4. Presiona **"Sortear amigo"** para elegir un nombre al azar.
-5. ¡Listo! 🎉
+5. ¡Listo!
 
 ## **Mejoras posibles**
 - Opción para eliminar nombres individualmente.
